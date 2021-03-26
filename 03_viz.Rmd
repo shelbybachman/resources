@@ -1,1 +1,13 @@
 # Data visualization {#data-viz}
+
+## ggplot2
+
+- theme elements cheatsheet ([link](https://henrywang.nl/ggplot2-theme-elements-demonstration/))
+
+- extensions ([link](https://exts.ggplot2.tidyverse.org/gallery/))
+
+## tables
+
+## inspiration
+
+- BBC-style graphics ([link](https://bbc.github.io/rcookbook/#how_to_create_bbc_style_graphics))

@@ -5,3 +5,7 @@
 ## Python
 
 ## Bash
+
+## Other
+
+- why you should not use matlab ([link](https://souravmishra.net/posts/tech/RethinkMATLAB.html))

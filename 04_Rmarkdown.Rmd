@@ -1,1 +1,14 @@
 # R Markdown {#rmarkdown}
+
+## Xaringan
+
+## CV
+
+## Bookdown
+
+## Blogdown & Hugo
+
+## Reproducible manuscripts
+
+- APA-formatted stats (`[papaja]`(http://frederikaust.com/papaja_man/reporting.html)) and equations (`[equatiomatic]`(https://datalorax.github.io/equatiomatic/)
+

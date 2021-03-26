@@ -1,5 +1,15 @@
 # Stats {#stats}
 
+## General
+
+- common statistical tests are linear models ([link](https://lindeloev.github.io/tests-as-linear))
+
 ## Mixed effects models
 
+- best practices ([link](https://doi.org/10.1016/j.jml.2020.104092))
+
 ## Structural equation modeling
+
+- SEM for psychologists ([link](https://github.com/mattansb/Structural-Equation-Modeling-foR-Psychologists))
+- power analaysis for parameter estimation in SEM ([link](https://yilinandrewang.shinyapps.io/pwrSEM))
+- courses by Sacha Epskamp ([link](http://sachaepskamp.com/SEM2019))

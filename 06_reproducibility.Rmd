@@ -1,1 +1,5 @@
 # Reproducibility {#reproducibility}
+
+## Workflows in R
+
+- packing data analysis reproducibly ([link](https://doi.org/10.1080/00031305.2017.1375986))
