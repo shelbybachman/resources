@@ -1,0 +1,11 @@
+---
+title: "Useful resources"
+author: "Shelby Bachman"
+site: bookdown::bookdown_site
+documentclass: book
+output:
+  bookdown::gitbook: default
+  #bookdown::pdf_book: default
+---
+
+Keeping track of links, books and more that I keep returning to.
