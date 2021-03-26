@@ -1,4 +1,3 @@
-preamble
 programming
 r
 python
