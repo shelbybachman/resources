@@ -2,6 +2,7 @@
 title: "Useful resources"
 author: "Shelby Bachman"
 site: bookdown::bookdown_site
+url: 'htts://shelbybachman.github.io/resources/index.html'
 documentclass: book
 output:
   bookdown::gitbook
