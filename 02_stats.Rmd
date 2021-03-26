@@ -2,14 +2,20 @@
 
 ## General
 
-- common statistical tests are linear models ([link](https://lindeloev.github.io/tests-as-linear))
+- common statistical tests are linear models: [link](https://lindeloev.github.io/tests-as-linear)
+
+- types of error intervals: [link](https://cu-psych-computing.github.io/cu-psych-comp-tutorial/tutorials/r-extra/error-intervals/slides.html#1)
+
+- Dr. Gilbert Strang's linear algebra course: [link](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/index.htm)
 
 ## Mixed effects models
 
-- best practices ([link](https://doi.org/10.1016/j.jml.2020.104092))
+- best practices: [link](https://doi.org/10.1016/j.jml.2020.104092)
 
 ## Structural equation modeling
 
-- SEM for psychologists ([link](https://github.com/mattansb/Structural-Equation-Modeling-foR-Psychologists))
-- power analaysis for parameter estimation in SEM ([link](https://yilinandrewang.shinyapps.io/pwrSEM))
-- courses by Sacha Epskamp ([link](http://sachaepskamp.com/SEM2019))
+- SEM for psychologists: [link](https://github.com/mattansb/Structural-Equation-Modeling-foR-Psychologists)
+
+- power analysis for parameter estimation in SEM: [link](https://yilinandrewang.shinyapps.io/pwrSEM)
+
+- courses by Sacha Epskamp: [link](http://sachaepskamp.com/SEM2019)

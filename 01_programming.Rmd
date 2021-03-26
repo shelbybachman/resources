@@ -2,10 +2,18 @@
 
 ## R
 
+### Learning R
+
+- our coding club: [link](https://ourcodingclub.github.io/course)
+- R swirl: [link](https://swirlstats.com/students.html)
+- data visualization course from Andrew Heiss: [link](https://datavizm20.classes.andrewheiss.com/)
+
 ## Python
 
 ## Bash
 
+- cheatsheet: [link](https://devhints.io/bash)
+
 ## Other
 
-- why you should not use matlab ([link](https://souravmishra.net/posts/tech/RethinkMATLAB.html))
+- why you should not use matlab: [link](https://souravmishra.net/posts/tech/RethinkMATLAB.html)

@@ -10,5 +10,5 @@
 
 ## Reproducible manuscripts
 
-- APA-formatted stats (`[papaja]`(http://frederikaust.com/papaja_man/reporting.html)) and equations (`[equatiomatic]`(https://datalorax.github.io/equatiomatic/)
+- APA-formatted stats with `papaja` ([link](http://frederikaust.com/papaja_man/reporting.html)) and equations (with `equatiomatic`, [link](https://datalorax.github.io/equatiomatic/))
 
