@@ -8,4 +8,6 @@ output:
   #bookdown::pdf_book: default
 ---
 
-Keeping track of links, books and more that I keep returning to.
+# Preamble
+
+Keeping track of the links, books and more that I keep returning to.

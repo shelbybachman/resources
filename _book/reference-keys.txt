@@ -1,1 +1,15 @@
-hello-world
+preamble
+programming
+r
+python
+bash
+stats
+mixed-effects-models
+structural-equation-modeling
+data-viz
+rmarkdown
+git
+reproducibility
+writing
+mri
+psychophys
