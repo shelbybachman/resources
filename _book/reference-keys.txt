@@ -9,6 +9,7 @@ data-viz
 rmarkdown
 git
 reproducibility
+open-sci
 writing
-mri
 psychophys
+mri

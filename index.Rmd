@@ -8,6 +8,6 @@ output:
   #bookdown::pdf_book: default
 ---
 
-# Preamble {.unnumbered}
+# {.unnumbered}
 
 Keeping track of the links, books and more that I keep returning to.
