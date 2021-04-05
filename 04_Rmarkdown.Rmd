@@ -2,11 +2,19 @@
 
 ## Xaringan
 
+- Alison Hill's [slides](https://arm.rbind.io/slides/xaringan.html#1)
+- Silvia Canelón's [guide](https://silvia.rbind.io/2021-03-16-deploying-xaringan-slides/) to deploying on Github pages
+
 ## CV
+
+- Dynamic CVs with the [vitae](https://pkg.mitchelloharawild.com/vitae/) package
+- Steven Miller's markdown CV [template](http://svmiller.com/blog/2016/03/svm-r-markdown-cv/); a related [guide](https://www.jungjulie.com/2020/01/12/update-your-cv-in-r-markdown/) by Julie Jung
 
 ## Bookdown
 
 ## Blogdown & Hugo
+
+- Alison Hill's [awesome guide](https://alison.rbind.io/post/2017-06-12-up-and-running-with-blogdown/)
 
 ## Reproducible manuscripts
 
