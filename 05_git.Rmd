@@ -1,1 +1,9 @@
 # Git & Github {#git}
+
+- Guide to collaborating with git and github: [link](https://www.sds.pub/collaborating-with-git-and-github.html)
+
+## Using Git/Github with R
+
+- [Happy Git with R](https://happygitwithr.com/)
+
+- 3 ways to connect RStudio projects with Github repos: [link](https://rfortherestofus.com/2021/02/how-to-use-git-github-with-r/)
