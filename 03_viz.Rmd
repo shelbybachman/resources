@@ -2,20 +2,20 @@
 
 ## ggplot2
 
-- theme elements cheatsheet ([link](https://henrywang.nl/ggplot2-theme-elements-demonstration/))
+- theme elements cheatsheet: [link](https://henrywang.nl/ggplot2-theme-elements-demonstration/)
 
 - Andrew Heiss's data visualization [course](https://datavizm20.classes.andrewheiss.com/)
 
-- extensions ([link](https://exts.ggplot2.tidyverse.org/gallery/))
+- extensions gallery: [link](https://exts.ggplot2.tidyverse.org/gallery/)
 
-- custom themes: [link](https://themockup.blog/posts/2020-12-26-creating-and-using-custom-ggplot2-themes/)
+- creating custom themes: [link](https://themockup.blog/posts/2020-12-26-creating-and-using-custom-ggplot2-themes/)
 
 
 ## tables
 
 ## inspiration
 
-- BBC-style graphics ([link](https://bbc.github.io/rcookbook/#how_to_create_bbc_style_graphics))
+- BBC-style graphics: [link](https://bbc.github.io/rcookbook/#how_to_create_bbc_style_graphics)
 
 ## colors
 
