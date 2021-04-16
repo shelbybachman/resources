@@ -1,0 +1,7 @@
+# Experiments {#experiments}
+
+## Psychopy
+
+- Carrying participant information from qualtrics to pavlovia & back: [link](https://discourse.psychopy.org/t/carrying-participant-id-from-qualtrics-to-pavlovia-and-back-to-qualtrics/14880)
+
+- Psychopy's [guide](https://www.psychopy.org/online/onlineParticipants.html) to integration with recruitment platforms
