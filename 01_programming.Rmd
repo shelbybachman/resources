@@ -1,5 +1,9 @@
 # Programming {#programming}
 
+## general
+
+- the missing semester course: [link](https://missing.csail.mit.edu/2020/)
+
 ## R
 
 ### Learning R
@@ -8,12 +12,12 @@
 - R swirl: [link](https://swirlstats.com/students.html)
 - data visualization course from Andrew Heiss: [link](https://datavizm20.classes.andrewheiss.com/)
 
-## Python
+## python
 
-## Bash
+## bash
 
 - cheatsheet: [link](https://devhints.io/bash)
 
-## Other
+## other
 
 - why you should not use matlab: [link](https://souravmishra.net/posts/tech/RethinkMATLAB.html)
