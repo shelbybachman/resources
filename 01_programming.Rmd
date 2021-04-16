@@ -8,16 +8,6 @@
 - R swirl: [link](https://swirlstats.com/students.html)
 - data visualization course from Andrew Heiss: [link](https://datavizm20.classes.andrewheiss.com/)
 
-### ggplot2
-
-- Andrew Heiss's data visualization [course](https://datavizm20.classes.andrewheiss.com/)
-- extension gallery: [link](https://exts.ggplot2.tidyverse.org/gallery/)
-- custom themes: [link](https://themockup.blog/posts/2020-12-26-creating-and-using-custom-ggplot2-themes/)
-- color palettes
-  - coolors: [link](https://coolors.co/)
-  - Wes Anderson color palettes: [link](https://github.com/karthik/wesanderson)
-  - US national parks color palettes: [link](https://github.com/katiejolly/nationalparkcolors)
-
 ## Python
 
 ## Bash
